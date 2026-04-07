@@ -1,9 +1,5 @@
 # Reproducible Research Course Project 2
 
-**Jeffrey M. Hunter**
-
-April 27, 2019
-
 ## Project
 
 Peer-graded Assignment: Course Project 2
